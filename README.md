@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="demo.png" alt="Logo" width="500" height="300">
+    <img src="demo.png" alt="Logo" width="600" height="400">
   </a>
 
 
