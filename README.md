@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/AbhijeetSrivastav/InstaWhoIs">
-    <img src="demo.png" alt="Logo" width="600" height="400">
+    <img src="demo.png" alt="Logo" width="700" height="500">
   </a>
 
 
@@ -72,7 +72,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Techneophyte - [@techneophyte](https://www.instagram.com/techneophyte/?hl=en) 
+Instagram - [@techneophyte](https://www.instagram.com/techneophyte/?hl=en) 
 
 Project Link: [https://github.com/AbhijeetSrivastav/InstaWhoIs](https://github.com/AbhijeetSrivastav/InstaWhoIs)
 
