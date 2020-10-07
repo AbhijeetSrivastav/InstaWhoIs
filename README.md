@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/AbhijeetSrivastav/InstaWhoIs">
     <img src="demo.png" alt="Logo" width="600" height="400">
   </a>
 
@@ -31,7 +31,7 @@ A GUI application written in python which gives you all the details related to a
 
 ### Built With
 The major frameworks that we used to built our project are:
-* [Python](https://python.com)
+* [Python](https://python.org)
 * [Tkinter](https://docs.python.org/3/library/tkinter.html)
 
 
@@ -74,6 +74,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Techneophyte - [@techneophyte](https://www.instagram.com/techneophyte/?hl=en) 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/AbhijeetSrivastav/InstaWhoIs](https://github.com/AbhijeetSrivastav/InstaWhoIs)
 
 
