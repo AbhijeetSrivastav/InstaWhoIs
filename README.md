@@ -44,9 +44,9 @@ After that follow the onscreen instructions and you are good to go.
 
 ### Prerequisites
 
-'''cmd
+```cmd
 pip install requests
-'''
+```
 
 
 <!-- CONTRIBUTING -->
